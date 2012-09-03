@@ -1,7 +1,7 @@
 {
   "name"          : "adn2do",
   "description"   : "A Node.js application that imports App.net posts into Day One using the Day One CLI.",
-  "version"       : "0.1.0",
+  "version"       : "0.1.1",
   "keywords"      : [
     "App.net",
     "Day One"
