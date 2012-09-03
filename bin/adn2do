@@ -1,0 +1,11 @@
+#!/usr/bin/env node
+
+var adn2do = require('adn2do');
+
+var options = {
+/*  alterPost: function (post) {
+    post.message = 'Personal ADNP\n\n' + post.message;
+  } */
+};
+
+adn2do.process(options);

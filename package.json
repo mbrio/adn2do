@@ -1,0 +1,23 @@
+{
+  "name"          : "adn2do",
+  "description"   : "A Node.js application that imports App.net posts into Day One using the Day One CLI.",
+  "version"       : "0.1.0",
+  "keywords"      : [
+    "App.net",
+    "Day One"
+  ],
+  "bin": "./bin/adn2do",
+  "main": "./lib/adn2do",
+  "contributors"  : [{ 
+    "name": "Michael Diolosa",
+    "email": "michaeldiolosa@icloud.com",
+    "twitter": "@mbrio",
+    "app.net": "@mbrio"
+  }],
+  "bugs"          : "http://github.com/mbrio/adn2do/issues",
+  "licenses"      : [{ "type": "MIT", "url": "http://www.opensource.org/licenses/mit-license.php" }],
+  "repositories"  : [{ "type": "git", "url": "git://github.com/mbrio/adn2do.git" }],
+  "dependencies"  : {},
+  "homepage"      : "http://github.com/mbrio/adn2do",
+  "engines"       : { "node": ">=0.8.8" }
+}
